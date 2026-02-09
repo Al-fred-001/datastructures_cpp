@@ -36,7 +36,7 @@ void Stack::_Push(float value) // if Stack:: not used - _IsFull() gets undefined
     //     _ResizeStack(_maxSize * 2 + 1);
     // } else
     if(_IsFull()){
-        std::cout<<"Stock is full."<<std::endl;
+        // std::cout<<"Stack is full."<<std::endl;
         return;
     }
 
