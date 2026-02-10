@@ -125,5 +125,5 @@ Also contains other folders/files that are not to be included publically or trac
 ````
 This repo was solely created for the purpose of me learning : how to create data structures, use them, and \n
 cpp alongside the journey. So while there may be logic errors and redundant or unnecessary code blocks in \n
-the code. All I can say is I'm learning as I go forward.  ```
+the code. All I can say is I'm learning as I go forward. 
 ````
