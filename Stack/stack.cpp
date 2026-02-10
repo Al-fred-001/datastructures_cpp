@@ -14,7 +14,7 @@ Stack::Stack()
     _resizable = true;
 };
 
-Stack::Stack(int max_size, bool resizable)
+Stack::Stack(int max_size, bool resizable = false)
 {
 
     // Initializing the stack of fixed size.
