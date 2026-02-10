@@ -27,9 +27,9 @@ Also contains other folders/files that are not to be included publically or trac
 
     PS: Those files may be edited later on to follow the same syntax as well.
 
-### What works, what doesn't and what's missing:
+## What works, what doesn't and what's missing:
 
-#### Binary Tree
+### Binary Tree
 
 // The following works:
 
@@ -47,7 +47,7 @@ Also contains other folders/files that are not to be included publically or trac
    .searchPath(value)
    ```
 
-````
+```
 
 // The following functionality are missing:
 
@@ -57,9 +57,9 @@ Also contains other folders/files that are not to be included publically or trac
 (b) Depth-first search (DFS)
 (c) Breadth-first search (BFS)
 (d) Others
+```
 
-#### Linked List
-
+### Linked List
     // The following works:
 
 1.Initialization:
@@ -89,7 +89,7 @@ Also contains other folders/files that are not to be included publically or trac
 .\_MergeList(LinkedList otherList);
 ```
 
-#### Stack
+### Stack
 
 //The following works:
 
@@ -120,7 +120,7 @@ Also contains other folders/files that are not to be included publically or trac
 
 `.\_ResizeStack(int new_max_size);`
 
-#### Author's Note:
+### Author's Note:
 
 ````
 This repo was solely created for the purpose of me learning : how to create data structures, use them, and \n
